@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mnu_zero"
+        android:title="Flower Power"
+        android:icon ="@drawable/ic_local_florist_black_24dp"
+        app:showAsAction="ifRoom">
+    </item>
+
+
+    <item
+        android:id="@+id/mnu_one"
+        android:title="Spocks Brain"
+        android:icon ="@drawable/minispocksbrain_24x24"
+        app:showAsAction="ifRoom">
+    </item>
+
+
+</menu>
